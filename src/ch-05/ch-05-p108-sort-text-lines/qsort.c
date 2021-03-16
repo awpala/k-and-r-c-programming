@@ -1,4 +1,3 @@
-#include <string.h>
 #include "utilities.h"
 
 /* qsort: sort v[left]...v[right] into increasing order */
