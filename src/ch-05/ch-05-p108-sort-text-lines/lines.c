@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
 #include "utilities.h"
 
 #define MAXLEN 1000     /* max length of any input line */

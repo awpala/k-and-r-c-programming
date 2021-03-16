@@ -7,7 +7,7 @@ void strCpy(char *s, char*t)
     ;
 }
 
-/* strCmp: return <0 if s<t, 0 if s==t, >0 if s>t*/
+/* strCmp: return <0 if s<t, 0 if s==t, >0 if s>t */
 int strCmp(char *s, char *t)
 {
   for ( ; *s == *t; s++, t++)
