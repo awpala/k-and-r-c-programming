@@ -1,6 +1,6 @@
 #include "utilities.h"
 
-/* qsort: sort v[left]...v[right] into increasing order */
+/* qSort: sort v[left]...v[right] into increasing order */
 void qSort(char *v[], int left, int right)
 {
   int i, last;
