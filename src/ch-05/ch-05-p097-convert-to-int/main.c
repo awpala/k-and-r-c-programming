@@ -3,10 +3,6 @@
 
 #define SIZE 5
 
-/*
-  N.B. compile via gcc & bash: `$gcc -o main main.c utilities.h getch.c getint.c`, then execute `./main`. 
-*/
-
 main()
 {
   int n, array[SIZE], getint(int *);

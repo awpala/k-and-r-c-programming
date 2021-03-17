@@ -4,7 +4,6 @@
 
 #define MAXOP 100   /* max size of operand or operator */
 
-/* N.B. compile via gcc & bash: `$gcc -o main main.c calc.h getch.c getop.c stack.c`, then execute `./main`  */
 main()
 {
   int type;

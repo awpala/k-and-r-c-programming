@@ -6,8 +6,7 @@
 char *lineptr[MAXLINES];    /* pointers to text lines */
 
 /*
-  N.B. compile via gcc & bash: `$gcc -o main main.c utilities.h lines.c mem.c qsort.c str.c`, then execute `./main`. 
-  In bash, type lines separated by \n's (i.e., Enter), then issue command `Ctrl+D` to execute lines sorting and writelines.
+  N.B. In bash, type lines separated by \n's (i.e., Enter), then issue command `Ctrl+D` to execute lines sorting and writelines.
 */
 
 /* sort input lines */

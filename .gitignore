@@ -4,5 +4,10 @@
 !*.*
 !*/
 
+# don't ignore makefiles (but ignore object files)
+# reference: https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+!makefile
+*.o
+
 # ignore vscode config files
 *.json
